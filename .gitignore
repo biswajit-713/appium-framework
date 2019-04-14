@@ -1,0 +1,13 @@
+.DS_Store
+.gradle/
+.idea/
+Reports/
+gradle/
+gradlew
+gradlew.bat
+log/
+out/
+src/main/java/api/test.java
+src/test/java/experiment/
+src/test/java/Runner.java
+
